@@ -1,6 +1,6 @@
 {
-  "name": "@vecv/widgets",
-  "version": "0.0.1",
+  "name": "@nirmalgs/widgets",
+  "version": "1.0.1",
   "author": "Nirmal Gandhi",
   "license": "MIT",
   "main": "dist/index.js",
